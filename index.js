@@ -162,5 +162,3 @@ const port = 3000;
 app.listen(port, () => {
     console.log("El servidor esta en linea en el puerto: "+ port);
 });
-
-
