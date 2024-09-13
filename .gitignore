@@ -3,3 +3,6 @@
 
 #Ignorar la carpetea de bases de datos 
 /db
+
+#Ignorar mis notas 
+notas.txt
